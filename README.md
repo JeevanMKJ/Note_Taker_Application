@@ -25,7 +25,7 @@ This step is only important for users who want to run the application from their
 
 Use this application from the commandline: open the folder in “VS Code” and open the “server.js” file. Open the “integrated terminal” for “server.js” and input the “node index.js” in the command line. Run the server and open the webapplication at localhoast:3000 [Image of Application](./assets/images/Note_Taker_Application_Screen_Shot.png)
 
-Use this application via the link: the application is deployed to Heroku. Use the provided link to use the application. [Link to Heroku Application]()
+Use this application via the link: the application is deployed to Heroku. Use the provided link to use the application. [Link to Heroku Application](https://whispering-journey-75499.herokuapp.com/notes)
 
 ## License
 
