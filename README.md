@@ -31,14 +31,6 @@ Use this application via the link: the application is deployed to Heroku. Use th
 
 This project is covered under the MIT license.
 
-## Contributing
-
-/
-
-## Tests
-
-/
-
 ## Questions
 
 If you have any questions, feel free to contact me at jeevanjones.jmkj@gmail.com.
